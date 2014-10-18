@@ -1,0 +1,9 @@
+
+
+Identify the 2014 month with highest net spend
+-which merchant captured that largest share of that spend?
+-How much was spent on premium grade fuel?
+-Which driver spent the most on diesel?
+-Was higher spend a function of PPG, number of transactions or both?
+
+How do you monitor these today?
